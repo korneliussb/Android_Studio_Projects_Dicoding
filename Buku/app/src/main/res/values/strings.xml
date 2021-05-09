@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buku</string>
+    <string name="books_name">Judul</string>
+    <string name="detail">Detail</string>
+    <string name="nama">Kornelius Satria B</string>
+    <string name="email">korneliussatria1@gmail.com</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tanggal_terbit">Tanggal Terbit</string>
+    <string name="jumlah_halaman">Jumlah Halaman</string>
+    <string name="gramedia">Gramedia.com</string>
+</resources>
